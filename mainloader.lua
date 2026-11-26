@@ -1,6 +1,6 @@
 --============================================================
---  HYPERSPOT  |  REALISTIC SCRIPTS (MOBILE OPTIMIZED)
---  Blue & Pink UI · Built-in Console · Draggable · No Key
+--  HYPERSPOT  |  REALISTIC SCRIPTS (MOBILE EDITION)
+--  KEYLESS
 --============================================================
 local Players = game:GetService("Players")
 local Run     = game:GetService("RunService")
