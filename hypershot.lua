@@ -1,5 +1,5 @@
--- Hypershot v1.1 | Fracture
--- Mobile + PC | Blue/Pink UI | Bloody R Toggle
+-- Hypershot v1.1 | REALISTIC 
+-- Mobile + PC | THE ONE
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
